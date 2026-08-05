@@ -1,0 +1,18 @@
+# 원본 소스 파일 (index.html 로 복사되어 배포됨)
+리더스원격 등록클로징.html
+
+# OS / 에디터
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# 배포 도구
+.vercel/
+node_modules/
+
+# 작업용 스크래치 / 빌드 산출물
+.scratch_*
+diag.txt
+build/
