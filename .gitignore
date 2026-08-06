@@ -16,3 +16,7 @@ node_modules/
 .scratch_*
 diag.txt
 build/
+
+landing-copy.md
+CLAUDE.md
+*.txt
